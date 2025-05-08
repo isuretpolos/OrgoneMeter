@@ -1,2 +1,2 @@
-# OrgoneMeter
+# Orgone Meter
 Measuring device for detection of orgone fields according to Wilhelm Reich
